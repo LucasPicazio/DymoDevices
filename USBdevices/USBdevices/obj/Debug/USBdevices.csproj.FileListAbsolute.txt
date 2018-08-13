@@ -1,0 +1,10 @@
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Debug\USBdevices.csprojResolveAssemblyReference.cache
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Debug\USBdevices.Form1.resources
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Debug\USBdevices.Properties.Resources.resources
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Debug\USBdevices.csproj.GenerateResource.Cache
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Debug\USBdevices.csproj.CoreCompileInputs.cache
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\bin\Debug\USBdevices.exe.config
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\bin\Debug\USBdevices.exe
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\bin\Debug\USBdevices.pdb
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Debug\USBdevices.exe
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Debug\USBdevices.pdb

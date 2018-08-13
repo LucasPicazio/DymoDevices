@@ -1,0 +1,10 @@
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\bin\Release\USBdevices.exe.config
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\bin\Release\USBdevices.exe
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\bin\Release\USBdevices.pdb
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Release\USBdevices.Form1.resources
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Release\USBdevices.Properties.Resources.resources
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Release\Dymo Checker.csproj.GenerateResource.Cache
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Release\Dymo Checker.csproj.CoreCompileInputs.cache
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Release\USBdevices.exe
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Release\USBdevices.pdb
+C:\Users\lpicazio\source\repos\USBdevices\USBdevices\obj\Release\Dymo Checker.csprojResolveAssemblyReference.cache
